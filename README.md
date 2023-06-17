@@ -84,4 +84,4 @@ Código 6: INSERT INTO movies (year_film, year_ceremony, ceremony, category, nam
 Código 7: INSERT INTO movies (year_film, year_ceremony, ceremony, category, name, film, winner) VALUES ('2019', '2019', '1', 'ACTOR', 'Jackson Yee', 'Dias Melhores', 'False');<br/>
 
 ## Agora vamos falar da sua vida. Me diga o nome de uma pessoa que você admira e o que ela fez na sua vida. Agora me diz: Quê prêmio essa pessoa merece?
-<br/>Resposta: Minha mãe, ela ganharia um oscar de melhor pessoa do mundo e tambem de melhor mãe
+<br/>Resposta: Minha mãe que me educou e me criou, ela ganharia um oscar de melhor pessoa do mundo e também de melhor mãe!
