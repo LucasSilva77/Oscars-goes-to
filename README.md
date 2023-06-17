@@ -8,7 +8,7 @@ Reconhecer uma qualidade Reconhecer um atributo Reconhecer o esforço... Reconhe
 
 Nem todos os prêmios são merecidos e nem todos que merecem ganham prêmios. Então vale mesmo a pena, premiar?
 
-Quantas vezes Natalie Portman foi indicada ao Oscar? Código: SELECT NAME, winner FROM movies WHERE NAME LIKE "%Natalie Portma%"
+## Quantas vezes Natalie Portman foi indicada ao Oscar? Código: SELECT NAME, winner FROM movies WHERE NAME LIKE "%Natalie Portma%"
 Resposta: Ela foi indicada 3 vezes ao Oscar
 
 Quantos Oscars Natalie Portman ganhou? Código: SELECT NAME, winner FROM movies WHERE NAME LIKE "%Natalie Portma%"
